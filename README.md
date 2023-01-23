@@ -1,4 +1,4 @@
-Download all files
+Download all files plus have python downloaded
 
 Open main.exe to play the game
 
