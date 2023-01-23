@@ -1,2 +1,7 @@
-# pygame-platformer
-# To play the game open the main.py file. If this doesnt work you may need to instal python
+Download all files
+
+Open main.exe to play the game
+
+A and D to move left/right and SPACE to jump 
+
+Try to collect all GOLD coins and beat all the levels, have fun!
